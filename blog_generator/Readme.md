@@ -24,3 +24,7 @@ Go to `Output` directory and download the setup.exe and install and open it dire
 - Write the topic of your choice to generate a good title for your topic/blog.
 - You can also generate a full blog based on the title and the keyword you added.
 - Also option to save the generated document in the docx format.
+
+![image](https://github.com/user-attachments/assets/75428f93-7fad-4316-8034-1ca5b52c2f5b)
+
+![image](https://github.com/user-attachments/assets/e080494e-da05-473e-a078-8993c0ee4d0b)
